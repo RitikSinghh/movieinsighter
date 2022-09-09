@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/movieinsighter/static/css/main.c0413652.css",
-    "main.js": "/movieinsighter/static/js/main.8d353588.js",
+    "main.js": "/movieinsighter/static/js/main.86547a93.js",
     "index.html": "/movieinsighter/index.html",
     "main.c0413652.css.map": "/movieinsighter/static/css/main.c0413652.css.map",
-    "main.8d353588.js.map": "/movieinsighter/static/js/main.8d353588.js.map"
+    "main.86547a93.js.map": "/movieinsighter/static/js/main.86547a93.js.map"
   },
   "entrypoints": [
     "static/css/main.c0413652.css",
-    "static/js/main.8d353588.js"
+    "static/js/main.86547a93.js"
   ]
 }
